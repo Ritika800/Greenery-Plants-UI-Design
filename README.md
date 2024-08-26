@@ -15,7 +15,7 @@ This  project showcases a responsive user interface (UI) for a website dedicated
 - *HTML5*
 - *CSS3*
 - *Bootstrap 5.3*
-- *JavaScript (optional)*
+- *JavaScript*
 
 
 
